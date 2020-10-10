@@ -1,0 +1,11 @@
+.cl {
+    display: flex;
+    padding: 20px;
+    border: 1px solid gray;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.row {
+    margin-top: 80px;
+}

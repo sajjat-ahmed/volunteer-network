@@ -1,0 +1,13 @@
+.task-pic {
+    width: 250px;
+    padding: 18px 0px;
+}
+.task-title{
+    position: relative;
+    margin: 0px 2px;
+    top: -65px;
+    height: 60px;
+    color: white;
+    background: #FFBD3E;
+    border-radius: 0px 0px 10px 10px;
+}
